@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "天意转盘"
+    },
+    {
+      "name": "icon_selector_title",
+      "value": "图标选择器"
+    },
+    {
+      "name": "change_icon",
+      "value": "更换"
+    },
+    {
+      "name": "import_jpg",
+      "value": "导入JPG图片"
+    },
+    {
+      "name": "save_config",
+      "value": "保存配置"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "select_icon",
+      "value": "选择图标"
+    },
+    {
+      "name": "select_icon_for",
+      "value": "为图标 %d 选择新图标"
+    },
+    {
+      "name": "select_from_gallery",
+      "value": "从图库选择"
+    },
+    {
+      "name": "icon_updated",
+      "value": "图标 %d 已更新"
+    },
+    {
+      "name": "config_saved",
+      "value": "图标配置已保存"
+    },
+    {
+      "name": "update_failed",
+      "value": "更新图标失败，请重试"
+    }
+  ]
+}

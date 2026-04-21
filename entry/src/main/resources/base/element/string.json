@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "ArkUI Animation"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "天意转盘"
+    },
+    {
+      "name": "please_click_button",
+      "value": "Click the button"
+    },
+    {
+      "name": "count",
+      "value": "Number"
+    },
+    {
+      "name": "microphone_reason",
+      "value": "用于语音识别功能，检测特定词汇"
+    }
+  ]
+}
